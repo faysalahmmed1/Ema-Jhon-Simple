@@ -1,5 +1,6 @@
 .Order-Summary{
     position: sticky;
+    top: 0;
     border: solid 2px;
     padding: 5px;
     margin-top: 50px;
